@@ -1,18 +1,18 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Stairwayy/e6d5e947ac400d752e01a6fe63b5540c/raw/c4389a6c580a448e4851a2472ce0bf8f23f6091a/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Stairwayy/e5ddebf7e0e9fb291208c2886d15992c/raw/760a13eefe55d136a33a977fff038f633f678144/githubcards.svg"/>
 
 <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Yasmin Guimarães</h1>
 
 - 🔥 Web Development Student
 
-- 🔭 I’m currently studying at [Rocketseat](https://github.com/Rocketseat)
+- 📄 I’m currently studying at [Rocketseat](https://github.com/Rocketseat) - [Udemy Academy](https://udemy.com)
 
 - 📷 I (not) regularly post on [@Stayrwai.a](https://www.instagram.com/stairway.a/)
 
 - 💬 Ask about **HTML, CSS, JavaScript, SQL, Node.JS** and I'll find a way to help you
 
-- ⚡ Fun fact 
+- ⚡ Fun fact Harry's scar
 
-- 👨‍💻 More at [stayrway.dev](https://stairwayy.github.io/Maratona-Explorer-2.0/)
+- 👨‍💻 More at [stairway.dev](https://stairwayy.github.io/Maratona-Explorer-2.0/)
 
 
 
