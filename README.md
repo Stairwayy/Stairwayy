@@ -2,9 +2,8 @@
 
 <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Yasmin Guimarães</h1>
 
-- 🔥 Web Development Student
 
-- 📄 I’m currently studying at [Rocketseat](https://github.com/Rocketseat) - [Udemy Academy](https://udemy.com)
+-  📓 Web Development Student at [Rocketseat](https://github.com/Rocketseat) - [Udemy Academy](https://udemy.com)
 
 - 📷 I (not) regularly post on [@Stayrwai.a](https://www.instagram.com/stairway.a/)
 
