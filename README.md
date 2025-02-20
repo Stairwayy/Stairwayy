@@ -3,11 +3,9 @@
 <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Yasmin Guimarães</h1>
 
 
--  📓 Web Development Student at [Rocketseat](https://github.com/Rocketseat) - [Udemy Academy](https://udemy.com)
+-  📓 CyberSecurity Student at [Impacta](https://www.impacta.com.br/) - [LetsDefend](https://app.letsdefend.io/user/guimaraes.a)
 
-- 📷 I (not) regularly post on [@Stayrwai.a](https://www.instagram.com/stairway.a/)
-
-- 💬 Ask about **HTML, CSS, JavaScript, SQL, Node.JS** and I'll find a way to help you
+- 💬 Ask about **HTML, CSS, JavaScript, SQL, Python** and I'll find a way to help you
 
 - ⚡ Fun fact Harry's scar
 
